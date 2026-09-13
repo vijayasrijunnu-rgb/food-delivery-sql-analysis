@@ -109,3 +109,9 @@ food-delivery-sql-analysis/
 │
 └── sql queries/
     └── food_delivery_analysis.sql
+
+##  Author
+
+**JUNNU VIJAYASRI**
+
+B.Tech Computer Science Graduate | Aspiring Data Analyst
